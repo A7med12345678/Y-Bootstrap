@@ -1,0 +1,1865 @@
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+   ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+html {
+    line-height: 1.15;
+    /* 1 */
+    -webkit-text-size-adjust: 100%;
+    /* 2 */
+}
+
+/* Sections
+     ========================================================================== */
+
+/**
+   * Remove the margin in all browsers.
+   */
+
+body {
+    margin: 0;
+}
+
+/**
+   * Render the `main` element consistently in IE.
+   */
+
+main {
+    display: block;
+}
+
+/**
+   * Correct the font size and margin on `h1` elements within `section` and
+   * `article` contexts in Chrome, Firefox, and Safari.
+   */
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+/* Grouping content
+     ========================================================================== */
+
+/**
+   * 1. Add the correct box sizing in Firefox.
+   * 2. Show the overflow in Edge and IE.
+   */
+
+hr {
+    box-sizing: content-box;
+    /* 1 */
+    height: 0;
+    /* 1 */
+    overflow: visible;
+    /* 2 */
+}
+
+/**
+   * 1. Correct the inheritance and scaling of font size in all browsers.
+   * 2. Correct the odd `em` font sizing in all browsers.
+   */
+
+pre {
+    font-family: monospace, monospace;
+    /* 1 */
+    font-size: 1em;
+    /* 2 */
+}
+
+/* Text-level semantics
+     ========================================================================== */
+
+/**
+   * Remove the gray background on active links in IE 10.
+   */
+
+a {
+    background-color: transparent;
+}
+
+/**
+   * 1. Remove the bottom border in Chrome 57-
+   * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+   */
+
+abbr[title] {
+    border-bottom: none;
+    /* 1 */
+    text-decoration: underline;
+    /* 2 */
+    text-decoration: underline dotted;
+    /* 2 */
+}
+
+/**
+   * Add the correct font weight in Chrome, Edge, and Safari.
+   */
+
+b,
+strong {
+    font-weight: bolder;
+}
+
+/**
+   * 1. Correct the inheritance and scaling of font size in all browsers.
+   * 2. Correct the odd `em` font sizing in all browsers.
+   */
+
+code,
+kbd,
+samp {
+    font-family: monospace, monospace;
+    /* 1 */
+    font-size: 1em;
+    /* 2 */
+}
+
+/**
+   * Add the correct font size in all browsers.
+   */
+
+small {
+    font-size: 80%;
+}
+
+/**
+   * Prevent `sub` and `sup` elements from affecting the line height in
+   * all browsers.
+   */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+sup {
+    top: -0.5em;
+}
+
+/* Embedded content
+     ========================================================================== */
+
+/**
+   * Remove the border on images inside links in IE 10.
+   */
+
+img {
+    border-style: none;
+}
+
+/* Forms
+     ========================================================================== */
+
+/**
+   * 1. Change the font styles in all browsers.
+   * 2. Remove the margin in Firefox and Safari.
+   */
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: inherit;
+    /* 1 */
+    font-size: 100%;
+    /* 1 */
+    line-height: 1.15;
+    /* 1 */
+    margin: 0;
+    /* 2 */
+}
+
+/**
+   * Show the overflow in IE.
+   * 1. Show the overflow in Edge.
+   */
+
+button,
+input {
+    /* 1 */
+    overflow: visible;
+}
+
+/**
+   * Remove the inheritance of text transform in Edge, Firefox, and IE.
+   * 1. Remove the inheritance of text transform in Firefox.
+   */
+
+button,
+select {
+    /* 1 */
+    text-transform: none;
+}
+
+/**
+   * Correct the inability to style clickable types in iOS and Safari.
+   */
+
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+    -webkit-appearance: button;
+}
+
+/**
+   * Remove the inner border and padding in Firefox.
+   */
+
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+    border-style: none;
+    padding: 0;
+}
+
+/**
+   * Restore the focus styles unset by the previous rule.
+   */
+
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+    outline: 1px dotted ButtonText;
+}
+
+/**
+   * Correct the padding in Firefox.
+   */
+
+fieldset {
+    padding: 0.35em 0.75em 0.625em;
+}
+
+/**
+   * 1. Correct the text wrapping in Edge and IE.
+   * 2. Correct the color inheritance from `fieldset` elements in IE.
+   * 3. Remove the padding so developers are not caught out when they zero out
+   *    `fieldset` elements in all browsers.
+   */
+
+legend {
+    box-sizing: border-box;
+    /* 1 */
+    color: inherit;
+    /* 2 */
+    display: table;
+    /* 1 */
+    max-width: 100%;
+    /* 1 */
+    padding: 0;
+    /* 3 */
+    white-space: normal;
+    /* 1 */
+}
+
+/**
+   * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+   */
+
+progress {
+    vertical-align: baseline;
+}
+
+/**
+   * Remove the default vertical scrollbar in IE 10+.
+   */
+
+textarea {
+    overflow: auto;
+}
+
+/**
+   * 1. Add the correct box sizing in IE 10.
+   * 2. Remove the padding in IE 10.
+   */
+
+[type="checkbox"],
+[type="radio"] {
+    box-sizing: border-box;
+    /* 1 */
+    padding: 0;
+    /* 2 */
+}
+
+/**
+   * Correct the cursor style of increment and decrement buttons in Chrome.
+   */
+
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+    height: auto;
+}
+
+/**
+   * 1. Correct the odd appearance in Chrome and Safari.
+   * 2. Correct the outline style in Safari.
+   */
+
+[type="search"] {
+    -webkit-appearance: textfield;
+    /* 1 */
+    outline-offset: -2px;
+    /* 2 */
+}
+
+/**
+   * Remove the inner padding in Chrome and Safari on macOS.
+   */
+
+[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+/**
+   * 1. Correct the inability to style clickable types in iOS and Safari.
+   * 2. Change font properties to `inherit` in Safari.
+   */
+
+::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    /* 1 */
+    font: inherit;
+    /* 2 */
+}
+
+/* Interactive
+     ========================================================================== */
+
+/*
+   * Add the correct display in Edge, IE 10+, and Firefox.
+   */
+
+details {
+    display: block;
+}
+
+/*
+   * Add the correct display in all browsers.
+   */
+
+summary {
+    display: list-item;
+}
+
+/* Misc
+     ========================================================================== */
+
+/**
+   * Add the correct display in IE 10+.
+   */
+
+template {
+    display: none;
+}
+
+/**
+   * Add the correct display in IE 10.
+   */
+
+[hidden] {
+    display: none;
+}
+
+/* ======================================================================================================================================= */
+
+
+
+/* Responsive: */
+
+
+/* display responsive : */
+.main-sm {
+    display: none !important;
+}
+
+.main-xl {
+    display: block !important;
+}
+
+/* From flex (row to col) &  (col to row): */
+
+.flex-xl-row-sm-col {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.flex-xl-col-sm-row {
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+
+/* Grid responsive :  */
+.grid-xl-2-sm-1 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+}
+
+.grid-xl-3-sm-1 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+}
+
+.grid-xl-3-sm-2 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+}
+
+.grid-xl-4-sm-1 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(4, 1fr) !important;
+}
+
+.grid-xl-4-sm-2 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(4, 1fr) !important;
+}
+
+.grid-xl-4-sm-3 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(5, 1fr) !important;
+}
+
+.grid-xl-5-sm-1 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(5, 1fr) !important;
+}
+
+.grid-xl-5-sm-2 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(5, 1fr) !important;
+}
+
+.grid-xl-5-sm-3 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+}
+
+.grid-xl-5-sm-4 {
+    display: grid !important;
+    gap: 1em !important;
+    grid-template-columns: repeat(4, 1fr) !important;
+}
+
+@media (max-width: 767px) {
+
+    /* display responsive : */
+
+    .main-sm {
+        display: block !important;
+    }
+
+    .main-xl {
+        display: none !important;
+    }
+
+    /* From flex (row to col) &  (col to row): */
+
+    .flex-xl-row-sm-col {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .flex-xl-col-sm-row {
+        display: flex !important;
+        flex-direction: row !important;
+    }
+
+
+    /* Grid responsive :  */
+
+    .grid-xl-2-sm-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .grid-xl-3-sm-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .grid-xl-3-sm-2 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .grid-xl-4-sm-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .grid-xl-4-sm-2 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .grid-xl-4-sm-3 {
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+
+    .grid-xl-5-sm-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .grid-xl-5-sm-2 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .grid-xl-5-sm-3 {
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+
+    .grid-xl-5-sm-4 {
+        grid-template-columns: repeat(4, 1fr) !important;
+    }
+}
+
+/* ======================================================================================================================================= */
+
+/* Display flex Alteratives : */
+
+
+/* Justify Content: Flex Start */
+/* Align Items: Flex Start */
+.flex-start-start {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+/* Justify Content: Flex Start */
+/* Align Items: Flex End */
+.flex-start-end {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+/* Justify Content: Flex Start */
+/* Align Items: Center */
+.flex-start-center {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+/* Justify Content: Flex Start */
+/* Align Items: Baseline */
+.flex-start-baseline {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+/* Justify Content: Flex Start */
+/* Align Items: Stretch */
+.flex-start-stretch {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+/* Justify Content: Flex End */
+/* Align Items: Flex Start */
+.flex-end-start {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+/* Justify Content: Flex End */
+/* Align Items: Flex End */
+.flex-end-end {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+/* Justify Content: Flex End */
+/* Align Items: Center */
+.flex-end-center {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+/* Justify Content: Flex End */
+/* Align Items: Baseline */
+.flex-end-baseline {
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+}
+
+/* Justify Content: Flex End */
+/* Align Items: Stretch */
+.flex-end-stretch {
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+
+/* Justify Content: Center */
+/* Align Items: Flex Start */
+.flex-center-start {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+/* Justify Content: Center */
+/* Align Items: Flex End */
+.flex-center-end {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* Justify Content: Center */
+/* Align Items: Center */
+.flex-center-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Justify Content: Center */
+/* Align Items: Baseline */
+.flex-center-baseline {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+/* Justify Content: Center */
+/* Align Items: Stretch */
+.flex-center-stretch {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+
+/* Justify Content: Space Between */
+/* Align Items: Flex Start */
+.flex-between-start {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+/* Justify Content: Space Between */
+/* Align Items: Flex End */
+.flex-between-end {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+/* Justify Content: Space Between */
+/* Align Items: Center */
+.flex-between-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Justify Content: Space Between */
+/* Align Items: Baseline */
+.flex-between-baseline {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+/* Justify Content: Space Between */
+/* Align Items: Stretch */
+.flex-between-stretch {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+/* Justify Content: Space Around */
+/* Align Items: Flex Start */
+.flex-around-start {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+/* Justify Content: Space Around */
+/* Align Items: Flex End */
+.flex-around-end {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+/* Justify Content: Space Around */
+/* Align Items: Center */
+.flex-around-center {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* Justify Content: Space Around */
+/* Align Items: Baseline */
+.flex-around-baseline {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+/* Justify Content: Space Around */
+/* Align Items: Stretch */
+.flex-around-stretch {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+/* Justify Content: Space Evenly */
+/* Align Items: Flex Start */
+.flex-evenly-start {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+/* Justify Content: Space Evenly */
+/* Align Items: Flex End */
+.flex-evenly-end {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+/* Justify Content: Space Evenly */
+/* Align Items: Center */
+.flex-evenly-center {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/* Justify Content: Space Evenly */
+/* Align Items: Baseline */
+.flex-evenly-baseline {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+/* Justify Content: Space Evenly */
+/* Align Items: Stretch */
+.flex-evenly-stretch {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+
+/* Justify Content: Stretch */
+/* Align Items: Flex Start */
+.flex-stretch-start {
+    display: flex;
+    justify-content: stretch;
+    align-items: flex-start;
+}
+
+/* Justify Content: Stretch */
+/* Align Items: Flex End */
+.flex-stretch-end {
+    display: flex;
+    justify-content: stretch;
+    align-items: flex-end;
+}
+
+/* Justify Content: Stretch */
+/* Align Items: Center */
+.flex-stretch-center {
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+}
+
+/* Justify Content: Stretch */
+/* Align Items: Baseline */
+.flex-stretch-baseline {
+    display: flex;
+    justify-content: stretch;
+    align-items: baseline;
+}
+
+/* Justify Content: Stretch */
+/* Align Items: Stretch */
+.flex-stretch-stretch {
+    display: flex;
+    justify-content: stretch;
+    align-items: stretch;
+}
+
+
+/* ======================================================================================================================================= */
+
+
+/* 128 Basic color " */
+
+.text-aliceblue {
+    color: #F0F8FF !important;
+}
+
+.text-antiquewhite {
+    color: #FAEBD7 !important;
+}
+
+.text-aqua {
+    color: #00FFFF !important;
+}
+
+.text-aquamarine {
+    color: #7FFFD4 !important;
+}
+
+.text-azure {
+    color: #F0FFFF !important;
+}
+
+.text-beige {
+    color: #F5F5DC !important;
+}
+
+.text-bisque {
+    color: #FFE4C4 !important;
+}
+
+.text-black {
+    color: #000000 !important;
+}
+
+.text-blanchedalmond {
+    color: #FFEBCD !important;
+}
+
+.text-blue {
+    color: #0000FF !important;
+}
+
+.text-blueviolet {
+    color: #8A2BE2 !important;
+}
+
+.text-brown {
+    color: #A52A2A !important;
+}
+
+.text-burlywood {
+    color: #DEB887 !important;
+}
+
+.text-cadetblue {
+    color: #5F9EA0 !important;
+}
+
+.text-chartreuse {
+    color: #7FFF00 !important;
+}
+
+.text-chocolate {
+    color: #D2691E !important;
+}
+
+.text-coral {
+    color: #FF7F50 !important;
+}
+
+.text-cornflowerblue {
+    color: #6495ED !important;
+}
+
+.text-cornsilk {
+    color: #FFF8DC !important;
+}
+
+.text-crimson {
+    color: #DC143C !important;
+}
+
+.text-cyan {
+    color: #00FFFF !important;
+}
+
+.text-darkblue {
+    color: #00008B !important;
+}
+
+.text-darkcyan {
+    color: #008B8B !important;
+}
+
+.text-darkgoldenrod {
+    color: #B8860B !important;
+}
+
+.text-darkgray {
+    color: #A9A9A9 !important;
+}
+
+.text-darkgreen {
+    color: #006400 !important;
+}
+
+.text-darkkhaki {
+    color: #BDB76B !important;
+}
+
+.text-darkmagenta {
+    color: #8B008B !important;
+}
+
+.text-darkolivegreen {
+    color: #556B2F !important;
+}
+
+.text-darkorange {
+    color: #FF8C00 !important;
+}
+
+.text-darkorchid {
+    color: #9932CC !important;
+}
+
+.text-darkred {
+    color: #8B0000 !important;
+}
+
+.text-darksalmon {
+    color: #E9967A !important;
+}
+
+.text-darkseagreen {
+    color: #8FBC8F !important;
+}
+
+.text-darkslateblue {
+    color: #483D8B !important;
+}
+
+.text-darkslategray {
+    color: #2F4F4F !important;
+}
+
+.text-darkturquoise {
+    color: #00CED1 !important;
+}
+
+.text-darkviolet {
+    color: #9400D3 !important;
+}
+
+.text-deeppink {
+    color: #FF1493 !important;
+}
+
+.text-deepskyblue {
+    color: #00BFFF !important;
+}
+
+.text-dimgray {
+    color: #696969 !important;
+}
+
+.text-dodgerblue {
+    color: #1E90FF !important;
+}
+
+.text-firebrick {
+    color: #B22222 !important;
+}
+
+.text-floralwhite {
+    color: #FFFAF0 !important;
+}
+
+.text-forestgreen {
+    color: #228B22 !important;
+}
+
+.text-fuchsia {
+    color: #FF00FF !important;
+}
+
+.text-gainsboro {
+    color: #DCDCDC !important;
+}
+
+.text-ghostwhite {
+    color: #F8F8FF !important;
+}
+
+.text-gold {
+    color: #FFD700 !important;
+}
+
+.text-goldenrod {
+    color: #DAA520 !important;
+}
+
+.text-gray {
+    color: #808080 !important;
+}
+
+.text-green {
+    color: #008000 !important;
+}
+
+.text-greenyellow {
+    color: #ADFF2F !important;
+}
+
+.text-honeydew {
+    color: #F0FFF0 !important;
+}
+
+.text-hotpink {
+    color: #FF69B4 !important;
+}
+
+.text-indianred {
+    color: #CD5C5C !important;
+}
+
+.text-indigo {
+    color: #4B0082 !important;
+}
+
+.text-ivory {
+    color: #FFFFF0 !important;
+}
+
+.text-khaki {
+    color: #F0E68C !important;
+}
+
+.text-lavender {
+    color: #E6E6FA !important;
+}
+
+.text-lavenderblush {
+    color: #FFF0F5 !important;
+}
+
+.text-lawngreen {
+    color: #7CFC00 !important;
+}
+
+.text-lemonchiffon {
+    color: #FFFACD !important;
+}
+
+.text-lightblue {
+    color: #ADD8E6 !important;
+}
+
+.text-lightcoral {
+    color: #F08080 !important;
+}
+
+.text-lightcyan {
+    color: #E0FFFF !important;
+}
+
+.text-lightgoldenrodyellow {
+    color: #FAFAD2 !important;
+}
+
+.text-lightgray {
+    color: #D3D3D3 !important;
+}
+
+.text-lightgreen {
+    color: #90EE90 !important;
+}
+
+.text-lightpink {
+    color: #FFB6C1 !important;
+}
+
+.text-lightsalmon {
+    color: #FFA07A !important;
+}
+
+.text-lightseagreen {
+    color: #20B2AA !important;
+}
+
+.text-lightskyblue {
+    color: #87CEFA !important;
+}
+
+.text-lightslategray {
+    color: #778899 !important;
+}
+
+.text-lightsteelblue {
+    color: #B0C4DE !important;
+}
+
+.text-lightyellow {
+    color: #FFFFE0 !important;
+}
+
+.text-lime {
+    color: #00FF00 !important;
+}
+
+.text-limegreen {
+    color: #32CD32 !important;
+}
+
+.text-linen {
+    color: #FAF0E6 !important;
+}
+
+.text-magenta {
+    color: #FF00FF !important;
+}
+
+.text-maroon {
+    color: #800000 !important;
+}
+
+.text-mediumaquamarine {
+    color: #66CDAA !important;
+}
+
+.text-mediumblue {
+    color: #0000CD !important;
+}
+
+.text-mediumorchid {
+    color: #BA55D3 !important;
+}
+
+.text-mediumpurple {
+    color: #9370DB !important;
+}
+
+.text-mediumseagreen {
+    color: #3CB371 !important;
+}
+
+.text-mediumslateblue {
+    color: #7B68EE !important;
+}
+
+.text-mediumspringgreen {
+    color: #00FA9A !important;
+}
+
+.text-mediumturquoise {
+    color: #48D1CC !important;
+}
+
+.text-mediumvioletred {
+    color: #C71585 !important;
+}
+
+.text-midnightblue {
+    color: #191970 !important;
+}
+
+.text-mintcream {
+    color: #F5FFFA !important;
+}
+
+.text-mistyrose {
+    color: #FFE4E1 !important;
+}
+
+.text-moccasin {
+    color: #FFE4B5 !important;
+}
+
+.text-navajowhite {
+    color: #FFDEAD !important;
+}
+
+.text-navy {
+    color: #000080 !important;
+}
+
+.text-oldlace {
+    color: #FDF5E6 !important;
+}
+
+.text-olive {
+    color: #808000 !important;
+}
+
+.text-olivedrab {
+    color: #6B8E23 !important;
+}
+
+.text-orange {
+    color: #FFA500 !important;
+}
+
+.text-orangered {
+    color: #FF4500 !important;
+}
+
+.text-orchid {
+    color: #DA70D6 !important;
+}
+
+.text-palegoldenrod {
+    color: #EEE8AA !important;
+}
+
+.text-palegreen {
+    color: #98FB98 !important;
+}
+
+.text-paleturquoise {
+    color: #AFEEEE !important;
+}
+
+.text-palevioletred {
+    color: #DB7093 !important;
+}
+
+.text-papayawhip {
+    color: #FFEFD5 !important;
+}
+
+.text-peachpuff {
+    color: #FFDAB9 !important;
+}
+
+.text-peru {
+    color: #CD853F !important;
+}
+
+.text-pink {
+    color: #FFC0CB !important;
+}
+
+.text-plum {
+    color: #DDA0DD !important;
+}
+
+.text-powderblue {
+    color: #B0E0E6 !important;
+}
+
+.text-purple {
+    color: #800080 !important;
+}
+
+.text-rebeccapurple {
+    color: #663399 !important;
+}
+
+.text-red {
+    color: #FF0000 !important;
+}
+
+.text-rosybrown {
+    color: #BC8F8F !important;
+}
+
+.text-royalblue {
+    color: #4169E1 !important;
+}
+
+.text-saddlebrown {
+    color: #8B4513 !important;
+}
+
+.text-salmon {
+    color: #FA8072 !important;
+}
+
+.text-sandybrown {
+    color: #F4A460 !important;
+}
+
+.text-seagreen {
+    color: #2E8B57 !important;
+}
+
+.text-seashell {
+    color: #FFF5EE !important;
+}
+
+.text-sienna {
+    color: #A0522D !important;
+}
+
+.text-silver {
+    color: #C0C0C0 !important;
+}
+
+.text-skyblue {
+    color: #87CEEB !important;
+}
+
+.text-slateblue {
+    color: #6A5ACD !important;
+}
+
+.text-slategray {
+    color: #708090 !important;
+}
+
+.text-snow {
+    color: #FFFAFA !important;
+}
+
+.text-springgreen {
+    color: #00FF7F !important;
+}
+
+.text-steelblue {
+    color: #4682B4 !important;
+}
+
+.text-tan {
+    color: #D2B48C !important;
+}
+
+.text-teal {
+    color: #008080 !important;
+}
+
+.text-thistle {
+    color: #D8BFD8 !important;
+}
+
+.text-tomato {
+    color: #FF6347 !important;
+}
+
+.text-turquoise {
+    color: #40E0D0 !important;
+}
+
+.text-violet {
+    color: #EE82EE !important;
+}
+
+.text-wheat {
+    color: #F5DEB3 !important;
+}
+
+.text-white {
+    color: #FFFFFF !important;
+}
+
+.text-whitesmoke {
+    color: #F5F5F5 !important;
+}
+
+.text-yellow {
+    color: #FFFF00 !important;
+}
+
+.text-yellowgreen {
+    color: #9ACD32 !important;
+}
+
+/* ======================================================================================================================================= */
+
+
+/* Margin from 0 to 10 :  */
+.m-0 {
+    margin: 0 !important;
+}
+
+.m-1 {
+    margin: 0.25em !important;
+}
+
+.m-2 {
+    margin: 0.5em !important;
+}
+
+.m-3 {
+    margin: 0.75em !important;
+}
+
+.m-4 {
+    margin: 1em !important;
+}
+
+.m-5 {
+    margin: 1.25em !important;
+}
+
+.m-6 {
+    margin: 1.5em !important;
+}
+
+.m-7 {
+    margin: 1.75em !important;
+}
+
+.m-8 {
+    margin: 2em !important;
+}
+
+.m-9 {
+    margin: 2.25em !important;
+}
+
+.m-10 {
+    margin: 2.5em !important;
+}
+
+.mt-0 {
+    margin-top: 0 !important;
+}
+
+.mt-1 {
+    margin-top: 0.25em !important;
+}
+
+.mt-2 {
+    margin-top: 0.5em !important;
+}
+
+.mt-3 {
+    margin-top: 0.75em !important;
+}
+
+.mt-4 {
+    margin-top: 1em !important;
+}
+
+.mt-5 {
+    margin-top: 1.25em !important;
+}
+
+.mt-6 {
+    margin-top: 1.5em !important;
+}
+
+.mt-7 {
+    margin-top: 1.75em !important;
+}
+
+.mt-8 {
+    margin-top: 2em !important;
+}
+
+.mt-9 {
+    margin-top: 2.25em !important;
+}
+
+.mt-10 {
+    margin-top: 2.50em !important;
+}
+
+.ml-0 {
+    margin-left: 0 !important;
+}
+
+.ml-1 {
+    margin-left: 0.25em !important;
+}
+
+.ml-2 {
+    margin-left: 0.5em !important;
+}
+
+.ml-3 {
+    margin-left: 0.75em !important;
+}
+
+.ml-4 {
+    margin-left: 1em !important;
+}
+
+.ml-5 {
+    margin-left: 1.25em !important;
+}
+
+.ml-6 {
+    margin-left: 1.5em !important;
+}
+
+.ml-7 {
+    margin-left: 1.75em !important;
+}
+
+.ml-8 {
+    margin-left: 2em !important;
+}
+
+.ml-9 {
+    margin-left: 2.25em !important;
+}
+
+.ml-10 {
+    margin-left: 2.50em !important;
+}
+
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+
+.mb-1 {
+    margin-bottom: 0.25em !important;
+}
+
+.mb-2 {
+    margin-bottom: 0.5em !important;
+}
+
+.mb-3 {
+    margin-bottom: 0.75em !important;
+}
+
+.mb-4 {
+    margin-bottom: 1em !important;
+}
+
+.mb-5 {
+    margin-bottom: 1.25em !important;
+}
+
+.mb-6 {
+    margin-bottom: 1.5em !important;
+}
+
+.mb-7 {
+    margin-bottom: 1.75em !important;
+}
+
+.mb-8 {
+    margin-bottom: 2em !important;
+}
+
+.mb-9 {
+    margin-bottom: 2.25em !important;
+}
+
+.mb-10 {
+    margin-bottom: 2.50em !important;
+}
+
+.mr-0 {
+    margin-right: 0 !important;
+}
+
+.mr-1 {
+    margin-right: 0.25em !important;
+}
+
+.mr-2 {
+    margin-right: 0.5em !important;
+}
+
+.mr-3 {
+    margin-right: 0.75em !important;
+}
+
+.mr-4 {
+    margin-right: 1em !important;
+}
+
+.mr-5 {
+    margin-right: 1.25em !important;
+}
+
+.mr-6 {
+    margin-right: 1.5em !important;
+}
+
+.mr-7 {
+    margin-right: 1.75em !important;
+}
+
+.mr-8 {
+    margin-right: 2em !important;
+}
+
+.mr-9 {
+    margin-right: 2.25em !important;
+}
+
+.mr-10 {
+    margin-right: 2.50em !important;
+}
+
+
+/* ======================================================================================================================================= */
+
+/* Margin from 0 to 10 :  */
+.p-0 {
+    padding: 0 !important;
+}
+
+.p-1 {
+    padding: 0.25em !important;
+}
+
+.p-2 {
+    padding: 0.5em !important;
+}
+
+.p-3 {
+    padding: 0.75em !important;
+}
+
+.p-4 {
+    padding: 1em !important;
+}
+
+.p-5 {
+    padding: 1.25em !important;
+}
+
+.p-6 {
+    padding: 1.5em !important;
+}
+
+.p-7 {
+    padding: 1.75em !important;
+}
+
+.p-8 {
+    padding: 2em !important;
+}
+
+.p-9 {
+    padding: 2.25em !important;
+}
+
+.p-10 {
+    padding: 2.5em !important;
+}
+
+.pt-0 {
+    padding-top: 0 !important;
+}
+
+.pt-1 {
+    padding-top: 0.25em !important;
+}
+
+.pt-2 {
+    padding-top: 0.5em !important;
+}
+
+.pt-3 {
+    padding-top: 0.75em !important;
+}
+
+.pt-4 {
+    padding-top: 1em !important;
+}
+
+.pt-5 {
+    padding-top: 1.25em !important;
+}
+
+.pt-6 {
+    padding-top: 1.5em !important;
+}
+
+.pt-7 {
+    padding-top: 1.75em !important;
+}
+
+.pt-8 {
+    padding-top: 2em !important;
+}
+
+.pt-9 {
+    padding-top: 2.25em !important;
+}
+
+.pt-10 {
+    padding-top: 2.5em !important;
+}
+
+.pl-0 {
+    padding-left: 0 !important;
+}
+
+.pl-1 {
+    padding-left: 0.25em !important;
+}
+
+.pl-2 {
+    padding-left: 0.5em !important;
+}
+
+.pl-3 {
+    padding-left: 0.75em !important;
+}
+
+.pl-4 {
+    padding-left: 1em !important;
+}
+
+.pl-5 {
+    padding-left: 1.25em !important;
+}
+
+.pl-6 {
+    padding-left: 1.5em !important;
+}
+
+.pl-7 {
+    padding-left: 1.75em !important;
+}
+
+.pl-8 {
+    padding-left: 2em !important;
+}
+
+.pl-9 {
+    padding-left: 2.25em !important;
+}
+
+.pl-10 {
+    padding-left: 2.5em !important;
+}
+
+.pb-0 {
+    padding-bottom: 0 !important;
+}
+
+.pb-1 {
+    padding-bottom: 0.25em !important;
+}
+
+.pb-2 {
+    padding-bottom: 0.5em !important;
+}
+
+.pb-3 {
+    padding-bottom: 0.75em !important;
+}
+
+.pb-4 {
+    padding-bottom: 1em !important;
+}
+
+.pb-5 {
+    padding-bottom: 1.25em !important;
+}
+
+.pb-6 {
+    padding-bottom: 1.5em !important;
+}
+
+.pb-7 {
+    padding-bottom: 1.75em !important;
+}
+
+.pb-8 {
+    padding-bottom: 2em !important;
+}
+
+.pb-9 {
+    padding-bottom: 2.25em !important;
+}
+
+.pb-10 {
+    padding-bottom: 2.5em !important;
+}
+
+.pr-0 {
+    padding-right: 0 !important;
+}
+
+.pr-1 {
+    padding-right: 0.25em !important;
+}
+
+.pr-2 {
+    padding-right: 0.5em !important;
+}
+
+.pr-3 {
+    padding-right: 0.75em !important;
+}
+
+.pr-4 {
+    padding-right: 1em !important;
+}
+
+.pr-5 {
+    padding-right: 1.25em !important;
+}
+
+.pr-6 {
+    padding-right: 1.5em !important;
+}
+
+.pr-7 {
+    padding-right: 1.75em !important;
+}
+
+.pr-8 {
+    padding-right: 2em !important;
+}
+
+.pr-9 {
+    padding-right: 2.25em !important;
+}
+
+.pr-10 {
+    padding-right: 2.5em !important;
+}
+
+
+/* ======================================================================================================================================= */
+
+/* Font size : */
+
+@media (max-width: 767px) {
+
+    .text-sm-smaller {
+        font-size: smaller !important;
+    }
+
+    .text-sm-xsmaller {
+        font-size: xx-small !important;
+    }
+
+
+    .text-xl-larger {
+        font-size: larger !important;
+    }
+
+    .text-sm-xlarger {
+        font-size: xx-large !important;
+    }
+}

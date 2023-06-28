@@ -1,0 +1,1610 @@
+
+/* 128 Basic text color : */
+
+.text-aliceblue {
+    color: #F0F8FF !important;
+}
+
+.text-antiquewhite {
+    color: #FAEBD7 !important;
+}
+
+.text-aqua {
+    color: #00FFFF !important;
+}
+
+.text-aquamarine {
+    color: #7FFFD4 !important;
+}
+
+.text-azure {
+    color: #F0FFFF !important;
+}
+
+.text-beige {
+    color: #F5F5DC !important;
+}
+
+.text-bisque {
+    color: #FFE4C4 !important;
+}
+
+.text-black {
+    color: #000000 !important;
+}
+
+.text-blanchedalmond {
+    color: #FFEBCD !important;
+}
+
+.text-blue {
+    color: #0000FF !important;
+}
+
+.text-blueviolet {
+    color: #8A2BE2 !important;
+}
+
+.text-brown {
+    color: #A52A2A !important;
+}
+
+.text-burlywood {
+    color: #DEB887 !important;
+}
+
+.text-cadetblue {
+    color: #5F9EA0 !important;
+}
+
+.text-chartreuse {
+    color: #7FFF00 !important;
+}
+
+.text-chocolate {
+    color: #D2691E !important;
+}
+
+.text-coral {
+    color: #FF7F50 !important;
+}
+
+.text-cornflowerblue {
+    color: #6495ED !important;
+}
+
+.text-cornsilk {
+    color: #FFF8DC !important;
+}
+
+.text-crimson {
+    color: #DC143C !important;
+}
+
+.text-cyan {
+    color: #00FFFF !important;
+}
+
+.text-darkblue {
+    color: #00008B !important;
+}
+
+.text-darkcyan {
+    color: #008B8B !important;
+}
+
+.text-darkgoldenrod {
+    color: #B8860B !important;
+}
+
+.text-darkgray {
+    color: #A9A9A9 !important;
+}
+
+.text-darkgreen {
+    color: #006400 !important;
+}
+
+.text-darkkhaki {
+    color: #BDB76B !important;
+}
+
+.text-darkmagenta {
+    color: #8B008B !important;
+}
+
+.text-darkolivegreen {
+    color: #556B2F !important;
+}
+
+.text-darkorange {
+    color: #FF8C00 !important;
+}
+
+.text-darkorchid {
+    color: #9932CC !important;
+}
+
+.text-darkred {
+    color: #8B0000 !important;
+}
+
+.text-darksalmon {
+    color: #E9967A !important;
+}
+
+.text-darkseagreen {
+    color: #8FBC8F !important;
+}
+
+.text-darkslateblue {
+    color: #483D8B !important;
+}
+
+.text-darkslategray {
+    color: #2F4F4F !important;
+}
+
+.text-darkturquoise {
+    color: #00CED1 !important;
+}
+
+.text-darkviolet {
+    color: #9400D3 !important;
+}
+
+.text-deeppink {
+    color: #FF1493 !important;
+}
+
+.text-deepskyblue {
+    color: #00BFFF !important;
+}
+
+.text-dimgray {
+    color: #696969 !important;
+}
+
+.text-dodgerblue {
+    color: #1E90FF !important;
+}
+
+.text-firebrick {
+    color: #B22222 !important;
+}
+
+.text-floralwhite {
+    color: #FFFAF0 !important;
+}
+
+.text-forestgreen {
+    color: #228B22 !important;
+}
+
+.text-fuchsia {
+    color: #FF00FF !important;
+}
+
+.text-gainsboro {
+    color: #DCDCDC !important;
+}
+
+.text-ghostwhite {
+    color: #F8F8FF !important;
+}
+
+.text-gold {
+    color: #FFD700 !important;
+}
+
+.text-goldenrod {
+    color: #DAA520 !important;
+}
+
+.text-gray {
+    color: #808080 !important;
+}
+
+.text-green {
+    color: #008000 !important;
+}
+
+.text-greenyellow {
+    color: #ADFF2F !important;
+}
+
+.text-honeydew {
+    color: #F0FFF0 !important;
+}
+
+.text-hotpink {
+    color: #FF69B4 !important;
+}
+
+.text-indianred {
+    color: #CD5C5C !important;
+}
+
+.text-indigo {
+    color: #4B0082 !important;
+}
+
+.text-ivory {
+    color: #FFFFF0 !important;
+}
+
+.text-khaki {
+    color: #F0E68C !important;
+}
+
+.text-lavender {
+    color: #E6E6FA !important;
+}
+
+.text-lavenderblush {
+    color: #FFF0F5 !important;
+}
+
+.text-lawngreen {
+    color: #7CFC00 !important;
+}
+
+.text-lemonchiffon {
+    color: #FFFACD !important;
+}
+
+.text-lightblue {
+    color: #ADD8E6 !important;
+}
+
+.text-lightcoral {
+    color: #F08080 !important;
+}
+
+.text-lightcyan {
+    color: #E0FFFF !important;
+}
+
+.text-lightgoldenrodyellow {
+    color: #FAFAD2 !important;
+}
+
+.text-lightgray {
+    color: #D3D3D3 !important;
+}
+
+.text-lightgreen {
+    color: #90EE90 !important;
+}
+
+.text-lightpink {
+    color: #FFB6C1 !important;
+}
+
+.text-lightsalmon {
+    color: #FFA07A !important;
+}
+
+.text-lightseagreen {
+    color: #20B2AA !important;
+}
+
+.text-lightskyblue {
+    color: #87CEFA !important;
+}
+
+.text-lightslategray {
+    color: #778899 !important;
+}
+
+.text-lightsteelblue {
+    color: #B0C4DE !important;
+}
+
+.text-lightyellow {
+    color: #FFFFE0 !important;
+}
+
+.text-lime {
+    color: #00FF00 !important;
+}
+
+.text-limegreen {
+    color: #32CD32 !important;
+}
+
+.text-linen {
+    color: #FAF0E6 !important;
+}
+
+.text-magenta {
+    color: #FF00FF !important;
+}
+
+.text-maroon {
+    color: #800000 !important;
+}
+
+.text-mediumaquamarine {
+    color: #66CDAA !important;
+}
+
+.text-mediumblue {
+    color: #0000CD !important;
+}
+
+.text-mediumorchid {
+    color: #BA55D3 !important;
+}
+
+.text-mediumpurple {
+    color: #9370DB !important;
+}
+
+.text-mediumseagreen {
+    color: #3CB371 !important;
+}
+
+.text-mediumslateblue {
+    color: #7B68EE !important;
+}
+
+.text-mediumspringgreen {
+    color: #00FA9A !important;
+}
+
+.text-mediumturquoise {
+    color: #48D1CC !important;
+}
+
+.text-mediumvioletred {
+    color: #C71585 !important;
+}
+
+.text-midnightblue {
+    color: #191970 !important;
+}
+
+.text-mintcream {
+    color: #F5FFFA !important;
+}
+
+.text-mistyrose {
+    color: #FFE4E1 !important;
+}
+
+.text-moccasin {
+    color: #FFE4B5 !important;
+}
+
+.text-navajowhite {
+    color: #FFDEAD !important;
+}
+
+.text-navy {
+    color: #000080 !important;
+}
+
+.text-oldlace {
+    color: #FDF5E6 !important;
+}
+
+.text-olive {
+    color: #808000 !important;
+}
+
+.text-olivedrab {
+    color: #6B8E23 !important;
+}
+
+.text-orange {
+    color: #FFA500 !important;
+}
+
+.text-orangered {
+    color: #FF4500 !important;
+}
+
+.text-orchid {
+    color: #DA70D6 !important;
+}
+
+.text-palegoldenrod {
+    color: #EEE8AA !important;
+}
+
+.text-palegreen {
+    color: #98FB98 !important;
+}
+
+.text-paleturquoise {
+    color: #AFEEEE !important;
+}
+
+.text-palevioletred {
+    color: #DB7093 !important;
+}
+
+.text-papayawhip {
+    color: #FFEFD5 !important;
+}
+
+.text-peachpuff {
+    color: #FFDAB9 !important;
+}
+
+.text-peru {
+    color: #CD853F !important;
+}
+
+.text-pink {
+    color: #FFC0CB !important;
+}
+
+.text-plum {
+    color: #DDA0DD !important;
+}
+
+.text-powderblue {
+    color: #B0E0E6 !important;
+}
+
+.text-purple {
+    color: #800080 !important;
+}
+
+.text-rebeccapurple {
+    color: #663399 !important;
+}
+
+.text-red {
+    color: #FF0000 !important;
+}
+
+.text-rosybrown {
+    color: #BC8F8F !important;
+}
+
+.text-royalblue {
+    color: #4169E1 !important;
+}
+
+.text-saddlebrown {
+    color: #8B4513 !important;
+}
+
+.text-salmon {
+    color: #FA8072 !important;
+}
+
+.text-sandybrown {
+    color: #F4A460 !important;
+}
+
+.text-seagreen {
+    color: #2E8B57 !important;
+}
+
+.text-seashell {
+    color: #FFF5EE !important;
+}
+
+.text-sienna {
+    color: #A0522D !important;
+}
+
+.text-silver {
+    color: #C0C0C0 !important;
+}
+
+.text-skyblue {
+    color: #87CEEB !important;
+}
+
+.text-slateblue {
+    color: #6A5ACD !important;
+}
+
+.text-slategray {
+    color: #708090 !important;
+}
+
+.text-snow {
+    color: #FFFAFA !important;
+}
+
+.text-springgreen {
+    color: #00FF7F !important;
+}
+
+.text-steelblue {
+    color: #4682B4 !important;
+}
+
+.text-tan {
+    color: #D2B48C !important;
+}
+
+.text-teal {
+    color: #008080 !important;
+}
+
+.text-thistle {
+    color: #D8BFD8 !important;
+}
+
+.text-tomato {
+    color: #FF6347 !important;
+}
+
+.text-turquoise {
+    color: #40E0D0 !important;
+}
+
+.text-violet {
+    color: #EE82EE !important;
+}
+
+.text-wheat {
+    color: #F5DEB3 !important;
+}
+
+.text-white {
+    color: #FFFFFF !important;
+}
+
+.text-whitesmoke {
+    color: #F5F5F5 !important;
+}
+
+.text-yellow {
+    color: #FFFF00 !important;
+}
+
+.text-yellowgreen {
+    color: #9ACD32 !important;
+}
+
+
+/* ======================================================================================================================================= */
+
+
+/* 128 Basic color backgrounds : */
+
+.bg-aliceblue {
+    background: #F0F8FF !important;
+}
+
+.bg-antiquewhite {
+    background: #FAEBD7 !important;
+}
+
+.bg-aqua {
+    background: #00FFFF !important;
+}
+
+.bg-aquamarine {
+    background: #7FFFD4 !important;
+}
+
+.bg-azure {
+    background: #F0FFFF !important;
+}
+
+.bg-beige {
+    background: #F5F5DC !important;
+}
+
+.bg-bisque {
+    background: #FFE4C4 !important;
+}
+
+.bg-black {
+    background: #000000 !important;
+}
+
+.bg-blanchedalmond {
+    background: #FFEBCD !important;
+}
+
+.bg-blue {
+    background: #0000FF !important;
+}
+
+.bg-blueviolet {
+    background: #8A2BE2 !important;
+}
+
+.bg-brown {
+    background: #A52A2A !important;
+}
+
+.bg-burlywood {
+    background: #DEB887 !important;
+}
+
+.bg-cadetblue {
+    background: #5F9EA0 !important;
+}
+
+.bg-chartreuse {
+    background: #7FFF00 !important;
+}
+
+.bg-chocolate {
+    background: #D2691E !important;
+}
+
+.bg-coral {
+    background: #FF7F50 !important;
+}
+
+.bg-cornflowerblue {
+    background: #6495ED !important;
+}
+
+.bg-cornsilk {
+    background: #FFF8DC !important;
+}
+
+.bg-crimson {
+    background: #DC143C !important;
+}
+
+.bg-cyan {
+    background: #00FFFF !important;
+}
+
+.bg-darkblue {
+    background: #00008B !important;
+}
+
+.bg-darkcyan {
+    background: #008B8B !important;
+}
+
+.bg-darkgoldenrod {
+    background: #B8860B !important;
+}
+
+.bg-darkgray {
+    background: #A9A9A9 !important;
+}
+
+.bg-darkgreen {
+    background: #006400 !important;
+}
+
+.bg-darkkhaki {
+    background: #BDB76B !important;
+}
+
+.bg-darkmagenta {
+    background: #8B008B !important;
+}
+
+.bg-darkolivegreen {
+    background: #556B2F !important;
+}
+
+.bg-darkorange {
+    background: #FF8C00 !important;
+}
+
+.bg-darkorchid {
+    background: #9932CC !important;
+}
+
+.bg-darkred {
+    background: #8B0000 !important;
+}
+
+.bg-darksalmon {
+    background: #E9967A !important;
+}
+
+.bg-darkseagreen {
+    background: #8FBC8F !important;
+}
+
+.bg-darkslateblue {
+    background: #483D8B !important;
+}
+
+.bg-darkslategray {
+    background: #2F4F4F !important;
+}
+
+.bg-darkturquoise {
+    background: #00CED1 !important;
+}
+
+.bg-darkviolet {
+    background: #9400D3 !important;
+}
+
+.bg-deeppink {
+    background: #FF1493 !important;
+}
+
+.bg-deepskyblue {
+    background: #00BFFF !important;
+}
+
+.bg-dimgray {
+    background: #696969 !important;
+}
+
+.bg-dodgerblue {
+    background: #1E90FF !important;
+}
+
+.bg-firebrick {
+    background: #B22222 !important;
+}
+
+.bg-floralwhite {
+    background: #FFFAF0 !important;
+}
+
+.bg-forestgreen {
+    background: #228B22 !important;
+}
+
+.bg-fuchsia {
+    background: #FF00FF !important;
+}
+
+.bg-gainsboro {
+    background: #DCDCDC !important;
+}
+
+.bg-ghostwhite {
+    background: #F8F8FF !important;
+}
+
+.bg-gold {
+    background: #FFD700 !important;
+}
+
+.bg-goldenrod {
+    background: #DAA520 !important;
+}
+
+.bg-gray {
+    background: #808080 !important;
+}
+
+.bg-green {
+    background: #008000 !important;
+}
+
+.bg-greenyellow {
+    background: #ADFF2F !important;
+}
+
+.bg-honeydew {
+    background: #F0FFF0 !important;
+}
+
+.bg-hotpink {
+    background: #FF69B4 !important;
+}
+
+.bg-indianred {
+    background: #CD5C5C !important;
+}
+
+.bg-indigo {
+    background: #4B0082 !important;
+}
+
+.bg-ivory {
+    background: #FFFFF0 !important;
+}
+
+.bg-khaki {
+    background: #F0E68C !important;
+}
+
+.bg-lavender {
+    background: #E6E6FA !important;
+}
+
+.bg-lavenderblush {
+    background: #FFF0F5 !important;
+}
+
+.bg-lawngreen {
+    background: #7CFC00 !important;
+}
+
+.bg-lemonchiffon {
+    background: #FFFACD !important;
+}
+
+.bg-lightblue {
+    background: #ADD8E6 !important;
+}
+
+.bg-lightcoral {
+    background: #F08080 !important;
+}
+
+.bg-lightcyan {
+    background: #E0FFFF !important;
+}
+
+.bg-lightgoldenrodyellow {
+    background: #FAFAD2 !important;
+}
+
+.bg-lightgray {
+    background: #D3D3D3 !important;
+}
+
+.bg-lightgreen {
+    background: #90EE90 !important;
+}
+
+.bg-lightpink {
+    background: #FFB6C1 !important;
+}
+
+.bg-lightsalmon {
+    background: #FFA07A !important;
+}
+
+.bg-lightseagreen {
+    background: #20B2AA !important;
+}
+
+.bg-lightskyblue {
+    background: #87CEFA !important;
+}
+
+.bg-lightslategray {
+    background: #778899 !important;
+}
+
+.bg-lightsteelblue {
+    background: #B0C4DE !important;
+}
+
+.bg-lightyellow {
+    background: #FFFFE0 !important;
+}
+
+.bg-lime {
+    background: #00FF00 !important;
+}
+
+.bg-limegreen {
+    background: #32CD32 !important;
+}
+
+.bg-linen {
+    background: #FAF0E6 !important;
+}
+
+.bg-magenta {
+    background: #FF00FF !important;
+}
+
+.bg-maroon {
+    background: #800000 !important;
+}
+
+.bg-mediumaquamarine {
+    background: #66CDAA !important;
+}
+
+.bg-mediumblue {
+    background: #0000CD !important;
+}
+
+.bg-mediumorchid {
+    background: #BA55D3 !important;
+}
+
+.bg-mediumpurple {
+    background: #9370DB !important;
+}
+
+.bg-mediumseagreen {
+    background: #3CB371 !important;
+}
+
+.bg-mediumslateblue {
+    background: #7B68EE !important;
+}
+
+.bg-mediumspringgreen {
+    background: #00FA9A !important;
+}
+
+.bg-mediumturquoise {
+    background: #48D1CC !important;
+}
+
+.bg-mediumvioletred {
+    background: #C71585 !important;
+}
+
+.bg-midnightblue {
+    background: #191970 !important;
+}
+
+.bg-mintcream {
+    background: #F5FFFA !important;
+}
+
+.bg-mistyrose {
+    background: #FFE4E1 !important;
+}
+
+.bg-moccasin {
+    background: #FFE4B5 !important;
+}
+
+.bg-navajowhite {
+    background: #FFDEAD !important;
+}
+
+.bg-navy {
+    background: #000080 !important;
+}
+
+.bg-oldlace {
+    background: #FDF5E6 !important;
+}
+
+.bg-olive {
+    background: #808000 !important;
+}
+
+.bg-olivedrab {
+    background: #6B8E23 !important;
+}
+
+.bg-orange {
+    background: #FFA500 !important;
+}
+
+.bg-orangered {
+    background: #FF4500 !important;
+}
+
+.bg-orchid {
+    background: #DA70D6 !important;
+}
+
+.bg-palegoldenrod {
+    background: #EEE8AA !important;
+}
+
+.bg-palegreen {
+    background: #98FB98 !important;
+}
+
+.bg-paleturquoise {
+    background: #AFEEEE !important;
+}
+
+.bg-palevioletred {
+    background: #DB7093 !important;
+}
+
+.bg-papayawhip {
+    background: #FFEFD5 !important;
+}
+
+.bg-peachpuff {
+    background: #FFDAB9 !important;
+}
+
+.bg-peru {
+    background: #CD853F !important;
+}
+
+.bg-pink {
+    background: #FFC0CB !important;
+}
+
+.bg-plum {
+    background: #DDA0DD !important;
+}
+
+.bg-powderblue {
+    background: #B0E0E6 !important;
+}
+
+.bg-purple {
+    background: #800080 !important;
+}
+
+.bg-rebeccapurple {
+    background: #663399 !important;
+}
+
+.bg-red {
+    background: #FF0000 !important;
+}
+
+.bg-rosybrown {
+    background: #BC8F8F !important;
+}
+
+.bg-royalblue {
+    background: #4169E1 !important;
+}
+
+.bg-saddlebrown {
+    background: #8B4513 !important;
+}
+
+.bg-salmon {
+    background: #FA8072 !important;
+}
+
+.bg-sandybrown {
+    background: #F4A460 !important;
+}
+
+.bg-seagreen {
+    background: #2E8B57 !important;
+}
+
+.bg-seashell {
+    background: #FFF5EE !important;
+}
+
+.bg-sienna {
+    background: #A0522D !important;
+}
+
+.bg-silver {
+    background: #C0C0C0 !important;
+}
+
+.bg-skyblue {
+    background: #87CEEB !important;
+}
+
+.bg-slateblue {
+    background: #6A5ACD !important;
+}
+
+.bg-slategray {
+    background: #708090 !important;
+}
+
+.bg-snow {
+    background: #FFFAFA !important;
+}
+
+.bg-springgreen {
+    background: #00FF7F !important;
+}
+
+.bg-steelblue {
+    background: #4682B4 !important;
+}
+
+.bg-tan {
+    background: #D2B48C !important;
+}
+
+.bg-teal {
+    background: #008080 !important;
+}
+
+.bg-thistle {
+    background: #D8BFD8 !important;
+}
+
+.bg-tomato {
+    background: #FF6347 !important;
+}
+
+.bg-turquoise {
+    background: #40E0D0 !important;
+}
+
+.bg-violet {
+    background: #EE82EE !important;
+}
+
+.bg-wheat {
+    background: #F5DEB3 !important;
+}
+
+.bg-white {
+    background: #FFFFFF !important;
+}
+
+.bg-whitesmoke {
+    background: #F5F5F5 !important;
+}
+
+.bg-yellow {
+    background: #FFFF00 !important;
+}
+
+.bg-yellowgreen {
+    background: #9ACD32 !important;
+}
+
+
+/* ======================================================================================================================================= */
+
+
+/* Margin from 0 to 10 :  */
+.m-0 {
+    margin: 0 !important;
+}
+
+.m-1 {
+    margin: 0.25em !important;
+}
+
+.m-2 {
+    margin: 0.5em !important;
+}
+
+.m-3 {
+    margin: 0.75em !important;
+}
+
+.m-4 {
+    margin: 1em !important;
+}
+
+.m-5 {
+    margin: 1.25em !important;
+}
+
+.m-6 {
+    margin: 1.5em !important;
+}
+
+.m-7 {
+    margin: 1.75em !important;
+}
+
+.m-8 {
+    margin: 2em !important;
+}
+
+.m-9 {
+    margin: 2.25em !important;
+}
+
+.m-10 {
+    margin: 2.5em !important;
+}
+
+.mt-0 {
+    margin-top: 0 !important;
+}
+
+.mt-1 {
+    margin-top: 0.25em !important;
+}
+
+.mt-2 {
+    margin-top: 0.5em !important;
+}
+
+.mt-3 {
+    margin-top: 0.75em !important;
+}
+
+.mt-4 {
+    margin-top: 1em !important;
+}
+
+.mt-5 {
+    margin-top: 1.25em !important;
+}
+
+.mt-6 {
+    margin-top: 1.5em !important;
+}
+
+.mt-7 {
+    margin-top: 1.75em !important;
+}
+
+.mt-8 {
+    margin-top: 2em !important;
+}
+
+.mt-9 {
+    margin-top: 2.25em !important;
+}
+
+.mt-10 {
+    margin-top: 2.50em !important;
+}
+
+.ml-0 {
+    margin-left: 0 !important;
+}
+
+.ml-1 {
+    margin-left: 0.25em !important;
+}
+
+.ml-2 {
+    margin-left: 0.5em !important;
+}
+
+.ml-3 {
+    margin-left: 0.75em !important;
+}
+
+.ml-4 {
+    margin-left: 1em !important;
+}
+
+.ml-5 {
+    margin-left: 1.25em !important;
+}
+
+.ml-6 {
+    margin-left: 1.5em !important;
+}
+
+.ml-7 {
+    margin-left: 1.75em !important;
+}
+
+.ml-8 {
+    margin-left: 2em !important;
+}
+
+.ml-9 {
+    margin-left: 2.25em !important;
+}
+
+.ml-10 {
+    margin-left: 2.50em !important;
+}
+
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+
+.mb-1 {
+    margin-bottom: 0.25em !important;
+}
+
+.mb-2 {
+    margin-bottom: 0.5em !important;
+}
+
+.mb-3 {
+    margin-bottom: 0.75em !important;
+}
+
+.mb-4 {
+    margin-bottom: 1em !important;
+}
+
+.mb-5 {
+    margin-bottom: 1.25em !important;
+}
+
+.mb-6 {
+    margin-bottom: 1.5em !important;
+}
+
+.mb-7 {
+    margin-bottom: 1.75em !important;
+}
+
+.mb-8 {
+    margin-bottom: 2em !important;
+}
+
+.mb-9 {
+    margin-bottom: 2.25em !important;
+}
+
+.mb-10 {
+    margin-bottom: 2.50em !important;
+}
+
+.mr-0 {
+    margin-right: 0 !important;
+}
+
+.mr-1 {
+    margin-right: 0.25em !important;
+}
+
+.mr-2 {
+    margin-right: 0.5em !important;
+}
+
+.mr-3 {
+    margin-right: 0.75em !important;
+}
+
+.mr-4 {
+    margin-right: 1em !important;
+}
+
+.mr-5 {
+    margin-right: 1.25em !important;
+}
+
+.mr-6 {
+    margin-right: 1.5em !important;
+}
+
+.mr-7 {
+    margin-right: 1.75em !important;
+}
+
+.mr-8 {
+    margin-right: 2em !important;
+}
+
+.mr-9 {
+    margin-right: 2.25em !important;
+}
+
+.mr-10 {
+    margin-right: 2.50em !important;
+}
+
+
+/* ======================================================================================================================================= */
+
+/* Margin from 0 to 10 :  */
+.p-0 {
+    padding: 0 !important;
+}
+
+.p-1 {
+    padding: 0.25em !important;
+}
+
+.p-2 {
+    padding: 0.5em !important;
+}
+
+.p-3 {
+    padding: 0.75em !important;
+}
+
+.p-4 {
+    padding: 1em !important;
+}
+
+.p-5 {
+    padding: 1.25em !important;
+}
+
+.p-6 {
+    padding: 1.5em !important;
+}
+
+.p-7 {
+    padding: 1.75em !important;
+}
+
+.p-8 {
+    padding: 2em !important;
+}
+
+.p-9 {
+    padding: 2.25em !important;
+}
+
+.p-10 {
+    padding: 2.5em !important;
+}
+
+.pt-0 {
+    padding-top: 0 !important;
+}
+
+.pt-1 {
+    padding-top: 0.25em !important;
+}
+
+.pt-2 {
+    padding-top: 0.5em !important;
+}
+
+.pt-3 {
+    padding-top: 0.75em !important;
+}
+
+.pt-4 {
+    padding-top: 1em !important;
+}
+
+.pt-5 {
+    padding-top: 1.25em !important;
+}
+
+.pt-6 {
+    padding-top: 1.5em !important;
+}
+
+.pt-7 {
+    padding-top: 1.75em !important;
+}
+
+.pt-8 {
+    padding-top: 2em !important;
+}
+
+.pt-9 {
+    padding-top: 2.25em !important;
+}
+
+.pt-10 {
+    padding-top: 2.5em !important;
+}
+
+.pl-0 {
+    padding-left: 0 !important;
+}
+
+.pl-1 {
+    padding-left: 0.25em !important;
+}
+
+.pl-2 {
+    padding-left: 0.5em !important;
+}
+
+.pl-3 {
+    padding-left: 0.75em !important;
+}
+
+.pl-4 {
+    padding-left: 1em !important;
+}
+
+.pl-5 {
+    padding-left: 1.25em !important;
+}
+
+.pl-6 {
+    padding-left: 1.5em !important;
+}
+
+.pl-7 {
+    padding-left: 1.75em !important;
+}
+
+.pl-8 {
+    padding-left: 2em !important;
+}
+
+.pl-9 {
+    padding-left: 2.25em !important;
+}
+
+.pl-10 {
+    padding-left: 2.5em !important;
+}
+
+.pb-0 {
+    padding-bottom: 0 !important;
+}
+
+.pb-1 {
+    padding-bottom: 0.25em !important;
+}
+
+.pb-2 {
+    padding-bottom: 0.5em !important;
+}
+
+.pb-3 {
+    padding-bottom: 0.75em !important;
+}
+
+.pb-4 {
+    padding-bottom: 1em !important;
+}
+
+.pb-5 {
+    padding-bottom: 1.25em !important;
+}
+
+.pb-6 {
+    padding-bottom: 1.5em !important;
+}
+
+.pb-7 {
+    padding-bottom: 1.75em !important;
+}
+
+.pb-8 {
+    padding-bottom: 2em !important;
+}
+
+.pb-9 {
+    padding-bottom: 2.25em !important;
+}
+
+.pb-10 {
+    padding-bottom: 2.5em !important;
+}
+
+.pr-0 {
+    padding-right: 0 !important;
+}
+
+.pr-1 {
+    padding-right: 0.25em !important;
+}
+
+.pr-2 {
+    padding-right: 0.5em !important;
+}
+
+.pr-3 {
+    padding-right: 0.75em !important;
+}
+
+.pr-4 {
+    padding-right: 1em !important;
+}
+
+.pr-5 {
+    padding-right: 1.25em !important;
+}
+
+.pr-6 {
+    padding-right: 1.5em !important;
+}
+
+.pr-7 {
+    padding-right: 1.75em !important;
+}
+
+.pr-8 {
+    padding-right: 2em !important;
+}
+
+.pr-9 {
+    padding-right: 2.25em !important;
+}
+
+.pr-10 {
+    padding-right: 2.5em !important;
+}
+
+
+/* ======================================================================================================================================= */
+
+/* Font size : */
+
+@media (max-width: 767px) {
+
+    .text-sm-smaller {
+        font-size: smaller !important;
+    }
+
+    .text-sm-xsmaller {
+        font-size: xx-small !important;
+    }
+
+
+    .text-xl-larger {
+        font-size: larger !important;
+    }
+
+    .text-sm-xlarger {
+        font-size: xx-large !important;
+    }
+}

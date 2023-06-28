@@ -1,0 +1,460 @@
+/* 
+1. Montserrat (400, 700)
+2. Roboto (400, 700)
+3. Open Sans (400, 700)
+4. Source Sans Pro (400, 700)
+5. Poppins (400, 700)
+6. Lato (400, 700)
+7. Oswald (400, 700)
+8. Merriweather (400, 700)
+9. Playfair Display (400, 700)
+10. Quicksand (400, 700)
+11. Raleway (400, 700)
+12. Roboto Condensed (400, 700)
+13. Arial (400, 700)
+14. Helvetica (400, 700)
+15. Georgia (400, 700)
+16. Times New Roman (400, 700)
+17. Verdana (400, 700)
+18. Courier New (400, 700)
+19. Comic Sans MS (400, 700)
+20. Ubuntu (400, 700)
+21. Montserrat Alternates (400, 700)
+22. Nunito (400, 700)
+23. DM Sans (400, 700)
+24. Exo (400, 700)
+25. Oxygen (400, 700)
+26. Karla (400, 700)
+27. Mukta (400, 700)
+28. Spartan (400, 700)
+29. Rajdhani (400, 700)
+30. Inter (400, 700)
+31. Roboto Slab (400, 700)
+32. PT Sans (400, 700)
+33. Montserrat Subrayada (400, 700)
+34. Oswald (300, 500, 700)
+35. Rubik (400, 500, 700)
+36. DM Serif Display (400, 700)
+37. Merriweather Sans (400, 700)
+38. Fira Sans (400, 700)
+39. Josefin Sans (400, 700)
+40. Archivo (400, 700)
+41. Questrial (400, 700)
+42. Rajdhani (300, 500, 700)
+43. Yanone Kaffeesatz (400, 700)
+44. Inconsolata (400, 700)
+45. Lora (400, 700)
+46. Libre Baskerville (400, 700)
+47. Anton
+48. Archivo Black
+49. Acme
+50. Bangers
+51. Bebas Neue
+52. Cabin
+53. Changa (400, 700)
+54. Delius
+55. Fredoka One
+56. Gloria Hallelujah
+57. Gravitas One
+58. Indie Flower
+59. Jura
+60. Kanit (400, 700)
+61. Lobster
+62. Luckiest Guy
+63. Merienda One
+64. Mukta (400, 700)
+65. Orbitron (400, 700)
+66. Pacifico
+67. Passion One (400, 700)
+68. Playfair Display (400, 700)
+69. Poiret One
+70. Press Start 2P
+71. Quicksand (400, 700)
+72. Raleway (400, 700)
+73. Righteous
+74. Satisfy
+75. Sigmar One
+76. Titillium Web (400, 700)
+77. Ubuntu (400, 700)
+78. Varela
+79. Yeseva One */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arial:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Helvetica:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Times+New+Roman:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Verdana:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier+New:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comic+Sans+MS:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Questrial:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cabin&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Delius&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jura&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merienda+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Varela&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap");
+
+/* Font classes for each imported font */
+
+.font-montserrat {
+    font-family: 'Montserrat', sans-serif !important;
+  }
+  
+  .font-roboto {
+    font-family: 'Roboto', sans-serif !important;
+  }
+  
+  .font-open-sans {
+    font-family: 'Open Sans', sans-serif !important;
+  }
+  
+  .font-source-sans-pro {
+    font-family: 'Source Sans Pro', sans-serif !important;
+  }
+  
+  .font-poppins {
+    font-family: 'Poppins', sans-serif !important;
+  }
+  
+  .font-lato {
+    font-family: 'Lato', sans-serif !important;
+  }
+  
+  .font-oswald {
+    font-family: 'Oswald', sans-serif !important;
+  }
+  
+  .font-merriweather {
+    font-family: 'Merriweather', serif !important;
+  }
+  
+  .font-playfair-display {
+    font-family: 'Playfair Display', serif !important;
+  }
+  
+  .font-quicksand {
+    font-family: 'Quicksand', sans-serif !important;
+  }
+  
+  .font-raleway {
+    font-family: 'Raleway', sans-serif !important;
+  }
+  
+  .font-roboto-condensed {
+    font-family: 'Roboto Condensed', sans-serif !important;
+  }
+  
+  .font-arial {
+    font-family: 'Arial', sans-serif !important;
+  }
+  
+  .font-helvetica {
+    font-family: 'Helvetica', sans-serif !important;
+  }
+  
+  .font-georgia {
+    font-family: 'Georgia', serif !important;
+  }
+  
+  .font-times-new-roman {
+    font-family: 'Times New Roman', serif !important;
+  }
+  
+  .font-verdana {
+    font-family: 'Verdana', sans-serif !important;
+  }
+  
+  .font-courier-new {
+    font-family: 'Courier New', monospace !important;
+  }
+  
+  .font-comic-sans-ms {
+    font-family: 'Comic Sans MS', cursive !important;
+  }
+  
+  .font-ubuntu {
+    font-family: 'Ubuntu', sans-serif !important;
+  }
+  
+  .font-montserrat-alternates {
+    font-family: 'Montserrat Alternates', sans-serif !important;
+  }
+  
+  .font-nunito {
+    font-family: 'Nunito', sans-serif !important;
+  }
+  
+  .font-dm-sans {
+    font-family: 'DM Sans', sans-serif !important;
+  }
+  
+  .font-exo {
+    font-family: 'Exo', sans-serif !important;
+  }
+  
+  .font-oxygen {
+    font-family: 'Oxygen', sans-serif !important;
+  }
+  
+  .font-karla {
+    font-family: 'Karla', sans-serif !important;
+  }
+  
+  .font-mukta {
+    font-family: 'Mukta', sans-serif !important;
+  }
+  
+  .font-spartan {
+    font-family: 'Spartan', sans-serif !important;
+  }
+  
+  .font-rajdhani {
+    font-family: 'Rajdhani', sans-serif !important;
+  }
+  
+  .font-inter {
+    font-family: 'Inter', sans-serif !important;
+  }
+  
+  .font-roboto-slab {
+    font-family: 'Roboto Slab', serif !important;
+  }
+  
+  .font-pt-sans {
+    font-family: 'PT Sans', sans-serif !important;
+  }
+  
+  .font-montserrat-subrayada {
+    font-family: 'Montserrat Subrayada', sans-serif !important;
+  }
+  
+  .font-oswald-light {
+    font-family: 'Oswald', sans-serif !important;
+    font-weight: 300;
+  }
+  
+  .font-rubik {
+    font-family: 'Rubik', sans-serif !important;
+  }
+  
+  .font-dm-serif-display {
+    font-family: 'DM Serif Display', serif !important;
+  }
+  
+  .font-rajdhani-light {
+    font-family: 'Rajdhani', sans-serif !important;
+    font-weight: 300;
+  }
+  
+  .font-yanone-kaffeesatz {
+    font-family: 'Yanone Kaffeesatz', sans-serif !important;
+  }
+  
+  .font-inconsolata {
+    font-family: 'Inconsolata', monospace !important;
+  }
+  
+  .font-lora {
+    font-family: 'Lora', serif !important;
+  }
+  
+  .font-libre-baskerville {
+    font-family: 'Libre Baskerville', serif !important;
+  }
+  
+  .font-anton {
+    font-family: 'Anton', sans-serif !important;
+  }
+  
+  .font-archivo-black {
+    font-family: 'Archivo Black', sans-serif !important;
+  }
+  
+  .font-acme {
+    font-family: 'Acme', sans-serif !important;
+  }
+  
+  .font-bangers {
+    font-family: 'Bangers', cursive !important;
+  }
+  
+  .font-bebas-neue {
+    font-family: 'Bebas Neue', cursive !important;
+  }
+  
+  .font-cabin {
+    font-family: 'Cabin', sans-serif !important;
+  }
+  
+  .font-changa {
+    font-family: 'Changa', sans-serif !important;
+  }
+  
+  .font-delius {
+    font-family: 'Delius', cursive !important;
+  }
+  
+  .font-fredoka-one {
+    font-family: 'Fredoka One', cursive !important;
+  }
+  
+  .font-gloria-hallelujah {
+    font-family: 'Gloria Hallelujah', cursive !important;
+  }
+  
+  .font-gravitas-one {
+    font-family: 'Gravitas One', cursive !important;
+  }
+  
+  .font-indie-flower {
+    font-family: 'Indie Flower', cursive !important;
+  }
+  
+  .font-jura {
+    font-family: 'Jura', sans-serif !important;
+  }
+  
+  .font-kanit {
+    font-family: 'Kanit', sans-serif !important;
+  }
+  
+  .font-lobster {
+    font-family: 'Lobster', cursive !important;
+  }
+  
+  .font-luckiest-guy {
+    font-family: 'Luckiest Guy', cursive !important;
+  }
+  
+  .font-merienda-one {
+    font-family: 'Merienda One', cursive !important;
+  }
+  
+  .font-mukta {
+    font-family: 'Mukta', sans-serif !important;
+  }
+  
+  .font-orbitron {
+    font-family: 'Orbitron', sans-serif !important;
+  }
+  
+  .font-pacifico {
+    font-family: 'Pacifico', cursive !important;
+  }
+  
+  .font-passion-one {
+    font-family: 'Passion One', cursive !important;
+  }
+  
+  .font-playfair-display {
+    font-family: 'Playfair Display', serif !important;
+  }
+  
+  .font-poiret-one {
+    font-family: 'Poiret One', cursive !important;
+  }
+  
+  .font-press-start-2p {
+    font-family: 'Press Start 2P', cursive !important;
+  }
+  
+  .font-quicksand {
+    font-family: 'Quicksand', sans-serif !important;
+  }
+  
+  .font-raleway {
+    font-family: 'Raleway', sans-serif !important;
+  }
+  
+  .font-righteous {
+    font-family: 'Righteous', cursive !important;
+  }
+  
+  .font-satisfy {
+    font-family: 'Satisfy', cursive !important;
+  }
+  
+  .font-sigmar-one {
+    font-family: 'Sigmar One', cursive !important;
+  }
+  
+  .font-titillium-web {
+    font-family: 'Titillium Web', sans-serif !important;
+  }
+  
+  .font-ubuntu {
+    font-family: 'Ubuntu', sans-serif !important;
+  }
+  
+  .font-varela {
+    font-family: 'Varela', sans-serif !important;
+  }
+  
+  .font-yeseva-one {
+    font-family: 'Yeseva One', cursive !important;
+  }
+  
